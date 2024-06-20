@@ -1,16 +1,7 @@
-# flutter__first_test
+# flutter-todo-project
 
-A new Flutter project.
+Test project to play with Flutter and build a mobile TODO app.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| | | |
+| --- | --- | --- |
+| ![image](https://github.com/Matthew-Man/flutter-todo-project/assets/43723450/e17a0787-bcc5-4f75-ae76-b0e1ce621b5e) | ![image](https://github.com/Matthew-Man/flutter-todo-project/assets/43723450/c18286fb-9a6f-4685-99da-16012654a401) | ![image](https://github.com/Matthew-Man/flutter-todo-project/assets/43723450/f4cc72c8-247a-47f9-9023-03c84ffe8c77) |
